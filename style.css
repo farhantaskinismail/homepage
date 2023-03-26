@@ -483,16 +483,16 @@ span.span2forA {
   word-spacing: 3px;
   margin: 98px 0px 0px 0px;
   font-weight: 300;
-  letter-spacing: 1px;
-}
+  letter-spacing: 1px;}
 .myname i {
   color: #7e7e7edd;
   font-size: 13px;
-  margin: 0px 2px 0px 0px;
-}
+  margin: 0px 2px 0px 0px;}
 .myname a {
   text-decoration: none;
-  color: #b26cff;
+  color: #b26cff;}
+span {
+    cursor: default;
 }
 .myname a:hover{
   text-decoration: underline;
